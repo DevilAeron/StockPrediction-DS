@@ -37,7 +37,7 @@
 
 
 ## Prediction result
-![predic](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture1.PNG)
+![image](https://user-images.githubusercontent.com/49195734/137118494-3af63286-967f-4c18-9ed4-d67e6be44e9d.png)
 
 ## Models evaluation
 ![image](https://user-images.githubusercontent.com/49195734/137118405-36a4cfe1-14d7-4c51-b24e-fbddeaa00d47.png)
