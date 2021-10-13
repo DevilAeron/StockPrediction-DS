@@ -40,7 +40,7 @@
 ![predic](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture1.PNG)
 
 ## Models evaluation
-![evaluation](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture2.PNG)
+![image](https://user-images.githubusercontent.com/49195734/137118405-36a4cfe1-14d7-4c51-b24e-fbddeaa00d47.png)
 ![evaluation](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Plot.png)
 
 ### Built With
