@@ -1,4 +1,4 @@
-# Stock-Prices-Prediction-ML-Flask-Dashboard
+# Stock-Prices-Prediction
 
 <!-- PROJECT LOGO -->
 <br />
