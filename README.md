@@ -33,7 +33,7 @@
 ![Code](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/code.PNG)
 
 ## Dashbord
-![Output-Data](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/Capture3.PNG)
+![image](https://user-images.githubusercontent.com/49195734/137118647-6603f68a-24fb-4d5f-a822-3a63089a2b88.png)
 
 
 ## Prediction result
