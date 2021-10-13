@@ -9,10 +9,8 @@
   <h3 align="center">Stock Prices Prediction ML with Flask Dashboard</h3>
 </p>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
 ## Demo
-![Demo](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/ezgif.com-video-to-gif.gif)
+![dfd](https://user-images.githubusercontent.com/49195734/137120257-e991b16f-4e50-4d8b-a476-76a93a2991a0.gif)
 
 ## Code
 ![Code](https://github.com/Zeeshanahmad4/Stock-Prices-Prediction-ML-Flask-Dashboard/blob/master/pics/code.PNG)
